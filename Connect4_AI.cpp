@@ -359,8 +359,6 @@ int computer_choice(int a[7][8],int depth)
 			{
 				copy_array(a,temp);
 				add(temp,i,1);
-				print(temp);
-				cout<<player_turn(temp,depth-1)+score(temp)<<endl;
 				if (player_turn(temp,depth-1) + score(temp) >= maximum)
 				{
 
@@ -485,6 +483,7 @@ int main()
 	level+=4;
 	int turn=0;
 	int total=42;
+	print(a);
 	while(turn < total)
 	{
 
