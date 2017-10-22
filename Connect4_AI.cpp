@@ -466,6 +466,8 @@ int main()
 	load.push_back(str);
 	str="Tightening board screws ...";
 	load.push_back(str);
+	str="Almost there ...";
+	load.push_back(str);
 	str="Did you lose your hope yet ? ";
 	load.push_back(str);
 	str="You can quit if you want ...";
