@@ -7,3 +7,6 @@ A screenshot of playing on terminal
 
 ## To run
 You should have c++ compiler, just compile the Connect4_AI.cpp file for AI and run the output file.
+
+## Algorithm used
+Used alpha beta pruning for AI model
