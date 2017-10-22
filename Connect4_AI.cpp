@@ -462,6 +462,8 @@ int main()
 	load.push_back(str);
 	str="Selecting moves to beat you ...";
 	load.push_back(str);
+	str="Be right back ...";
+	load.push_back(str);
 	str="Did you lose your hope yet ? ";
 	load.push_back(str);
 	str="You can quit if you want ...";
