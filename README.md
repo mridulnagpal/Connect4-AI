@@ -1,6 +1,9 @@
 # Connect4-AI-C++
-An AI for Connect4 game using alpha beta pruning. Just compile the file and run it.
+An AI for Connect4 game using alpha beta pruning.
 
 A screenshot of playing on terminal 
 
 ![Connect4](./Screenshots/connect4.png?raw=true "Connect4")
+
+## To run
+You should have c++ compiler, just compile the Connect4_AI.cpp file for AI and run the output file.
